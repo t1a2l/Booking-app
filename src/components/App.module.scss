@@ -1,0 +1,8 @@
+@import '../styles/vars';
+
+.app :global {
+    .page-content {
+        padding-top: 100px;
+        text-align: center;
+    }
+}
